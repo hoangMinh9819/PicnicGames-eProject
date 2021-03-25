@@ -1,2 +1,33 @@
-# eProject-PicnicGames
-Group 6 Class T1.2011.M0. Nguyen Hoang Minh (Student1287968). Dinh Ngoc Minh Hieu (Student1285592). Nguyen Tran Hoang Phuc (Student1286085). Pham Tran Hoang Anh (Student1285593).
+# PICNIC-GAMES-eproject
+
+eProject T1.2011.M0- eProject-Group_6 Batch no:
+
+T1.2011.M0 
+
+CENTER NAME:ACE_HCMC-2-FPT
+
+Project-title: PICNIC GAMES
+
+========> GROUP 6 <========
+
+4 collaborators:
+
+     Group 6 members                Name	                               Student ID
+
+                                    Nguyễn Hoàng Minh( team leader)      Student1287968
+                                    Đinh Ngọc Minh Hiếu                  Student1285592 
+                                    Nguyền Trần Hoàng Phúc               Student1286085
+                                    Phạm Trần Hoàng Anh                  Student1285593
+                                    
+                                    
+ ============================
+
+eProject documentation at :https://github.com/apinkpanda1808/PICNIC-GAMES-eproject
+
+============================
+
+eProject published at : https://apinkpanda1808.github.io/PICNIC-GAMES-eproject/.
+
+============================
+
+Thank you for spending your time to look at our work.                                   
