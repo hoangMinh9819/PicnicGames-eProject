@@ -12,7 +12,7 @@ Project-title: PICNIC GAMES
 
 4 collaborators:
 
-     Group 6 members                Name	                               Student ID
+     Group members                  Name	                               Student ID
 
                                     Nguyễn Hoàng Minh( team leader)      Student1287968
                                     Đinh Ngọc Minh Hiếu                  Student1285592 
@@ -22,11 +22,15 @@ Project-title: PICNIC GAMES
                                     
  ============================
 
-eProject documentation at :https://github.com/apinkpanda1808/PICNIC-GAMES-eproject
+eProject documentation at :
 
 ============================
 
-eProject published at : https://apinkpanda1808.github.io/PICNIC-GAMES-eproject/.
+eProject published at : 
+
+============================
+
+eProject video at :
 
 ============================
 
