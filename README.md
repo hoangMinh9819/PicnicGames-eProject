@@ -26,7 +26,7 @@ eProject documentation at :
 
 ============================
 
-eProject published at : 
+eProject published at : https://hoangminh9819.github.io/eProject-PicnicGames/
 
 ============================
 
