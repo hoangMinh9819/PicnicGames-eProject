@@ -22,7 +22,7 @@ Project-title: PICNIC GAMES
                                     
  ============================
 
-eProject documentation at :
+eProject documentation at : https://github.com/hoangMinh9819/eProject-PicnicGames/tree/main/review-group-6
 
 ============================
 
@@ -30,7 +30,7 @@ eProject published at : https://hoangminh9819.github.io/eProject-PicnicGames/
 
 ============================
 
-eProject video at :
+eProject video at :https://www.youtube.com/watch?v=MMqfzuKCghI&ab_channel=Ho%C3%A0ngMinhNguy%E1%BB%85n
 
 ============================
 
