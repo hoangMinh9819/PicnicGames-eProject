@@ -87,7 +87,7 @@
                     <div class="contact-from">
                         <h5 class="title-intro">CONTACT US</h5>
                         <h2>Get in Touch</h2>
-                        <form>
+                        <form action="after-contact.html">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="single-form">
@@ -98,7 +98,7 @@
 
                                 <div class="col-md-6">
                                     <div class="single-form">
-                                        <input type="email" placeholder="Email" required>
+                                        <input type="email" placeholder="Email" required pattern="^([0-9a-zA-Z]([-.\w]*[0-9a-zA-Z])*@([0-9a-zA-Z][-\w]*[0-9a-zA-Z]\.)+[a-zA-Z]{2,9})$">
                                     </div>
                                 </div>
 
@@ -112,7 +112,8 @@
 
                                 <div class="col-md-6">
                                     <div class="single-form">
-                                        <input type="tel" placeholder="1234-567-890" pattern="[0-9]{4}-[0-9]{3}-[0-9]{3}" required>
+                                        <input type="tel" placeholder="0123456789" 
+											   pattern="^\d{10}$" required>
                                     </div>
                                 </div>
                             </div>
